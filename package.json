@@ -21,7 +21,7 @@
   "dependencies": {
     "@iobroker/adapter-core": "^2.4.0",
     "core-decorators": "^0.20.0",
-    "radiohead-serial": "^4.2.0"
+    "radiohead-serial": "^4.3.0"
   },
   "devDependencies": {
     "@iobroker/testing": "^2.4.4",
